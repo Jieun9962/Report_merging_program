@@ -1,4 +1,4 @@
-# portfolio
+# portfolio🐇
 I planned, designed, and built this portfolio myself, from the initial structure down to the code. Every visual element was made from scratch, with accessibility and usability in mind from the beginning rather than added later.
 The goal is to demonstrate not only my professional experience in web accessibility, but also how accessibility can enhance usability and create a better experience for everyone.
 
