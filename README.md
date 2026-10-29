@@ -72,7 +72,7 @@ Note: Make sure that the Python interpreter used to run the program is the same 
 This project focuses on reducing repetitive manual work in report processing and making report generation more consistent.
 Automating these tasks helped reduce the time needed to prepare and deliver reports requested by clients.
 
-## 데이터 및 보안
+## 데이터 및 보안 - Data and Confidentiality
 - 모든 PDF 및 템플릿은 포트폴리오 시연을 위해 제작한 가상 데이터 입니다.
 - 실제 고객사 정보, 업무 문서, 내부 체크리스트 및 기밀 자료는 포함하지 않았습니다.
 
