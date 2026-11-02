@@ -34,6 +34,7 @@ To protect confidential information, I created the code and all input files and 
 - Folder Selection: Allows users to select the folder containing the input files.
 
  ## 프로젝트 구조 - Project Structure
+```text
 report_merging_demo/
 ├── src/
 │   └── demo_merger.py
@@ -47,6 +48,7 @@ report_merging_demo/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## 실행법 - How to Run
 1. 코드 실행 전 확인 사항 : Python 설치, 프로젝트 파일 다운로드 또는 GitHub 저장소 복제 (Output 파일은 제외하고 다운해야 코드 동작 확인 가능)
