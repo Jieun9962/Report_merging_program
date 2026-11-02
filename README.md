@@ -46,7 +46,6 @@ report_merging_demo/
 │   ├── merged_demo_report.pdf
 │   └── demo_error_summary.xlsx
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
