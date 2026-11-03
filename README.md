@@ -7,7 +7,7 @@ Automating PDF report consolidation and error summary generation with Python
 
 개인이 진행한 프로젝트 입니다.
 Gemini, ChatGPT를 활용하였습니다.
-PDF 보고서 병합 및 오류 집계 작업을 자동화하기 위해 진행한 Python 프로젝트 입니다.
+PDF 보고서 병합 및 오류 집계 작업을 자동화하기 위해 진행한 프로젝트 입니다.
 간지 별로 페이지를 분류하고 템플릿 항목의 순서에 맞추어 하나의 PDF로 병합 후 체크 항목별 오류 건수를 집계하여 Excel 파일로 생성합니다.
 
 이 프로젝트는 실제 업무에서 수행했던 보고서 처리 자동화 경험을 바탕으로 제작한 포트폴리오용 데모 프로젝트 입니다.
@@ -16,7 +16,7 @@ PDF 보고서 병합 및 오류 집계 작업을 자동화하기 위해 진행�
 
 Personal Project
 Used Gemini, ChatGPT
-This Python project automates the process of merging PDF reports and counting errors.
+This project automates the process of merging PDF reports and counting errors.
 It sorts pages by section, merges them into a single PDF in the order specified by the template, and exports the error count for each checklist item to an Excel file.
 
 This is a portfolio demo based on my experience automating report-processing tasks in a real work environment.
