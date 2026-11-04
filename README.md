@@ -22,6 +22,15 @@ It sorts pages by section, merges them into a single PDF in the order specified 
 This is a portfolio demo based on my experience automating report-processing tasks in a real work environment.
 To protect confidential information, I created the code and all input files and templates specifically for this demo rather than using materials from my previous work. This also applies to code that might otherwise reveal internal information.
 
+## 프로젝트 의의 - Project Purpose
+이 프로젝트는 보고서 처리 작업을 자동화 함으로써 반복되는 수작업을 최소화하고 결과물 생성 과정을 일관된 절차로 구성할 수 있도록 하는데 초점을 맞추었습니다.
+이를 통하여 단순 반복 작업을 줄임으로써 고객사가 요청한 보고서를 전달하는데 소요되는 시간을 줄이는데 기여할 수 있었습니다.
+실무 사용 기준 200~300장 분량의 리포트 병합 및 이슈 카운팅에 2시간 이상 걸리던 작업이 30분 이내로 줄었습니다.
+
+This project focuses on reducing repetitive manual work in report processing and making report generation more consistent.
+Automating these tasks helped reduce the time needed to prepare and deliver reports requested by clients.
+The time required to merge reports and count issues across 200~300 pages in actual work scenarios was reduced from over 2 hours to under 30 minutes.
+
 ## 주요기능 - Key Features
 - PDF 페이지 분류 및 템플릿 기반 병합 : PDF 보고서의 페이지를 확인하고 체크 항목에 따라 분류하며 지정된 템플릿 구조와 체크 항목 순서에 맞춰 페이지를 병합합니다.
 - 오류 건수 집계 : 체크 항목별 오류 건수를 집계합니다.
@@ -68,16 +77,6 @@ The template file, demo_template.pdf, must be stored in the same folder as the r
 Once processing is complete, the generated files will be saved in the output/ directory.
 
 Note: Make sure that the Python interpreter used to run the program is the same one where the required libraries are installed.
-
-## 프로젝트 의의 - Project Purpose
-이 프로젝트는 보고서 처리 작업을 자동화 함으로써 반복되는 수작업을 최소화하고 결과물 생성 과정을 일관된 절차로 구성할 수 있도록 하는데 초점을 맞추었습니다.
-이를 통하여 단순 반복 작업을 줄임으로써 고객사가 요청한 보고서를 전달하는데 소요되는 시간을 줄이는데 기여할 수 있었습니다.
-실무 사용 기준 200~300장 분량의 리포트 병합 및 이슈 카운팅에 2시간 이상 걸리던 작업이 30분 이내로 줄었습니다.
-
-This project focuses on reducing repetitive manual work in report processing and making report generation more consistent.
-Automating these tasks helped reduce the time needed to prepare and deliver reports requested by clients.
-The time required to merge reports and count issues across 200~300 pages in actual work scenarios was reduced from over 2 hours to under 30 minutes.
-
 
 ## 데이터 및 보안 - Data and Confidentiality
 - 모든 PDF 및 템플릿은 포트폴리오 시연을 위해 제작한 가상 데이터 입니다.
